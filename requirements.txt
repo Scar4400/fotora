@@ -1,0 +1,10 @@
+aiohttp
+pandas
+numpy
+scikit-learn
+joblib
+requests
+tqdm
+python-dotenv
+sqlalchemy  # Optional, depending on your database choice
+sqlite3
